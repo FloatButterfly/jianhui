@@ -1,0 +1,224 @@
+{
+  "publications": [
+    {
+      "title": "Generative Image Coding with Diffusion Prior",
+      "authors": [
+        "Jianhui Chang"
+      ],
+      "venue": "IEEE International Conference on Multimedia and Expo (ICME), 2025",
+      "award": "Best Paper Award",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "RCNet: Resilient Collaborative DNN Inference for Wireless Networks With High Packet Loss",
+      "authors": [
+        "Yumeng Liang",
+        "Jianhui Chang",
+        "Mingyuan Zang",
+        "Jie Wu"
+      ],
+      "venue": "IEEE Transactions on Network Science and Engineering (Early Access), 2025",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Image Encryption and Compression Based on Reversed Diffusion Model",
+      "authors": [
+        "Yilin Guo",
+        "Jianhui Chang",
+        "Yuhuai Zhang",
+        "Jian Zhang",
+        "Siwei Ma"
+      ],
+      "venue": "Picture Coding Symposium (PCS), 2024",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "ControlMath: Controllable Data Generation Promotes Math Generalist Models",
+      "authors": [
+        "Nuo Chen",
+        "Ning Wu",
+        "Jianhui Chang",
+        "Jia Li"
+      ],
+      "venue": "EMNLP, 2024",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Extreme Low Bitrate Image Compression System for Mobile Deployment",
+      "authors": [
+        "Junqi Wu",
+        "Wenhong Duan",
+        "Xianping Ma",
+        "Jianhui Chang",
+        "Shanshe Wang",
+        "Siwei Ma",
+        "Chuanmin Jia"
+      ],
+      "venue": "IEEE 26th International Workshop on Multimedia Signal Processing (MMSP), 2024",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Semantic-aware Visual Decomposition for Image Coding",
+      "authors": [
+        "Jianhui Chang",
+        "Jian Zhang",
+        "Jiguo Li",
+        "Shiqi Wang",
+        "Qi Mao",
+        "Chuanmin Jia",
+        "Siwei Ma",
+        "Wen Gao"
+      ],
+      "venue": "International Journal of Computer Vision (IJCV), 2023",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Structural Contrastive Pretraining for Cross-Lingual Comprehension",
+      "authors": [
+        "Linjun Shou",
+        "Tengtao Song",
+        "Ming Gong",
+        "Jian Pei",
+        "Jianhui Chang",
+        "Daxin Jiang",
+        "Jia Li"
+      ],
+      "venue": "ACL, 2023",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Alleviating Over-smoothing for Unsupervised Sentence Representation",
+      "authors": [
+        "Linjun Shou",
+        "Ming Gong",
+        "Jian Pei",
+        "Bowen Cao",
+        "Jianhui Chang",
+        "Daxin Jiang",
+        "Jia Li"
+      ],
+      "venue": "ACL, 2023",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Overview of Intelligent Video Coding: From Model-based to Learning-based Approaches",
+      "authors": [
+        "Siwei Ma",
+        "Junlong Gao",
+        "Ruofan Wang",
+        "Jianhui Chang",
+        "Qi Mao",
+        "Zhimeng Huang",
+        "Chuanmin Jia"
+      ],
+      "venue": "Visual Intelligence, 2023",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Conceptual Compression via Deep Structure and Texture Synthesis",
+      "authors": [
+        "Jianhui Chang",
+        "Zhenghui Zhao",
+        "Chuanmin Jia",
+        "Shiqi Wang",
+        "Lingbo Yang",
+        "Qi Mao",
+        "Jian Zhang",
+        "Siwei Ma"
+      ],
+      "venue": "IEEE Transactions on Image Processing (TIP), 2022",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Consistency-Contrast Learning for Conceptual Coding",
+      "authors": [
+        "Jianhui Chang",
+        "Jian Zhang",
+        "Youmin Xu",
+        "Jiguo Li",
+        "Siwei Ma",
+        "Wen Gao"
+      ],
+      "venue": "ACM International Conference on Multimedia (ACM MM), 2022",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Analysis on Compressed Domain: A Multi-Task Learning Approach",
+      "authors": [
+        "Yuefeng Zhang",
+        "Chuanmin Jia",
+        "Jianhui Chang",
+        "Siwei Ma"
+      ],
+      "venue": "IEEE Data Compression Conference (DCC), 2022",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Semantic Neural Rendering-based Video Coding: Towards Ultra-Low Bitrate Video Conferencing",
+      "authors": [
+        "Yujie Hu",
+        "Youmin Xu",
+        "Jianhui Chang",
+        "Jian Zhang"
+      ],
+      "venue": "IEEE Data Compression Conference (DCC), 2022",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Thousand to One: Semantic Prior Modeling for Conceptual Coding",
+      "authors": [
+        "Jianhui Chang",
+        "Zhenghui Zhao",
+        "Lingbo Yang",
+        "Chuanmin Jia",
+        "Jian Zhang",
+        "Siwei Ma"
+      ],
+      "venue": "IEEE International Conference on Multimedia and Expo (ICME), 2021 (Oral)",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
+      "title": "Layered Conceptual Image Compression via Deep Semantic Synthesis",
+      "authors": [
+        "Jianhui Chang",
+        "Qi Mao",
+        "Zhenghui Zhao",
+        "Shanshe Wang",
+        "Shiqi Wang",
+        "Hong Zhu",
+        "Siwei Ma"
+      ],
+      "venue": "IEEE International Conference on Image Processing (ICIP), 2019 (Oral)",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    }
+  ]
+}
