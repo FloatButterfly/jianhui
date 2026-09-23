@@ -1,6 +1,21 @@
 {
   "publications": [
     {
+      "title": "Beyond Faces: Toward Interactive Generative Video Coding via Hybrid Prior",
+      "authors": [
+        "Jianhui Chang",
+        "Jialei Zhou",
+        "Giuseppe Valenzise",
+        "Haoye Zhang",
+        "Lihu Xiao",
+        "Siwei Ma"
+      ],
+      "venue": "34th ACM International Conference on Multimedia (ACM MM 2026). Accepted.",
+      "award": "",
+      "selected": 1,
+      "links": {}
+    },
+    {
       "title": "Generative Image Coding with Diffusion Prior",
       "authors": [
         "Jianhui Chang"
