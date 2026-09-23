@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite these tutorial slides when using their exposition, organization, or synthesis, and cite the original papers for the methods and results discussed."
+type: generic
+title: "Generative Image and Video Coding: Principles, Methods, and Emerging Directions"
+authors:
+  - family-names: Chang
+    given-names: Jianhui
+  - family-names: Valenzise
+    given-names: Giuseppe
+  - family-names: Wang
+    given-names: Shiqi
+version: "1.0"
+url: "https://floatbutterfly.github.io/jianhui/tutorials/icip2026-gvc/"
+repository-code: "https://github.com/FloatButterfly/jianhui"
+keywords:
+  - generative visual coding
+  - image compression
+  - video compression
+  - diffusion models
+  - ICIP 2026
